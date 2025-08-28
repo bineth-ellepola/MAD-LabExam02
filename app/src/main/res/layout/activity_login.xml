@@ -21,7 +21,7 @@
         android:id="@+id/loginTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome Back Travo"
+        android:text="Welcome Back"
         android:textColor="#000000"
         android:textSize="28sp"
         android:textStyle="bold"
